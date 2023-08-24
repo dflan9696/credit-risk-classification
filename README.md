@@ -64,3 +64,29 @@ An overview of the analysis: Explain the purpose of this analysis.
 The results: Using a bulleted list, describe the accuracy score, the precision score, and recall score of the machine learning model.
 
 A summary: Summarize the results from the machine learning model. Include your justification for recommending the model for use by the company. If you don’t recommend the model, justify your reasoning.
+
+Overview of the Analysis:
+
+The primary objective of this analysis is to create robust machine learning models that can accurately predict the creditworthiness of borrowers in a peer-to-peer lending setting. The analysis involves training and evaluating models to achieve high accuracy, precision, and recall, thereby assisting lending institutions in making informed decisions.
+
+Results:
+
+Model 1:
+
+Accuracy: 99%
+Precision (Class 0): 1.00
+Recall (Class 0): 1.00
+Precision (Class 1): 0.87
+Recall (Class 1): 0.89
+
+Model 2:
+
+Accuracy: 100%
+Precision (Class 0): 1.00
+Recall (Class 0): 1.00
+Precision (Class 1): 0.87
+Recall (Class 1): 1.00
+
+Summary:
+
+The machine learning models have exhibited outstanding performance in predicting credit risk. Both models achieved high accuracy, with Model 2 achieving perfect accuracy. Additionally, the models demonstrated strong precision and recall scores, ensuring reliable predictions for both healthy loans (Class 0) and high-risk loans (Class 1).
