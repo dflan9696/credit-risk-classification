@@ -73,19 +73,19 @@ Results:
 
 Model 1:
 
-Accuracy: 99%
-Precision (Class 0): 1.00
-Recall (Class 0): 1.00
-Precision (Class 1): 0.87
-Recall (Class 1): 0.89
+- Accuracy: 99%
+- Precision (Class 0): 1.00
+- Recall (Class 0): 1.00
+- Precision (Class 1): 0.87
+- Recall (Class 1): 0.89
 
 Model 2:
 
-Accuracy: 100%
-Precision (Class 0): 1.00
-Recall (Class 0): 1.00
-Precision (Class 1): 0.87
-Recall (Class 1): 1.00
+- Accuracy: 100%
+- Precision (Class 0): 1.00
+- Recall (Class 0): 1.00
+- Precision (Class 1): 0.87
+- Recall (Class 1): 1.00
 
 Summary:
 
